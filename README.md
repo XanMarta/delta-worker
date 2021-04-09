@@ -1,1 +1,1 @@
-# F*cking README
+# F_cking README
