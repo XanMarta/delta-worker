@@ -1,1 +1,1 @@
-# F_cking README *(closed project)*
+# *(closed project)*
